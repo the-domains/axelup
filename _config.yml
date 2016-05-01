@@ -1,0 +1,28 @@
+name: AXELUP
+favicon: null
+layout_spectrum: 0.40371783007867634
+typography_spectrum: 0.26914911321364343
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6065044621936977
+  lightness: 0.10837463429197669
+  saturation: 0.04045216157101095
+  rhythmicContrast: 0.362256410298869
+purpose: []
